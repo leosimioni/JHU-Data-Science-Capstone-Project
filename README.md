@@ -23,4 +23,15 @@ The following steps culminated in the development of this app:
 
 -Improving predictive accuracy, computational runtine and model complexity
 
--Creating this Data Product
+-Creating the Data Product (Word Prediction App)
+
+## Important Links
+
+[Milestone Report](https://rpubs.com/leosimioni/987677)
+
+[Word Prediction Application](https://leosimioni.shinyapps.io/Word-Prediction/)
+
+[App Presentation](https://rpubs.com/leosimioni/987875)
+
+
+
