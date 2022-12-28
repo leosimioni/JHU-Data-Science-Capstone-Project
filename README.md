@@ -1,1 +1,4 @@
-# JHU-Data-Science-Capstone-Project
+# CAPSTONE PROJECT
+
+Data Science Specialization
+Johns Hopkins University
