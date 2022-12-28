@@ -1,0 +1,14 @@
+name: Word-Prediction-App
+title: Word-Prediction-App
+username:
+account: leosimioni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7951437
+bundleId: 6678644
+url: https://leosimioni.shinyapps.io/Word-Prediction-App/
+when: 1672239561.96533
+lastSyncTime: 1672239561.96534
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/headers.png
